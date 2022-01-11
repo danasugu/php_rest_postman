@@ -1,6 +1,6 @@
 <?php
 
-class BazaDate {
+class Database {
   //params
 
   private $host = 'localhost';

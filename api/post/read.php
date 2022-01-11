@@ -1,5 +1,3 @@
-nes (42 sloc) 1.15 KB
-
 <?php
   // Headers
   header('Access-Control-Allow-Origin: *');
